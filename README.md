@@ -1,3 +1,3 @@
-Hi, I’m @ronyouki
-I’m interested in Haskell
+Hi, I’m @ronyouk.
+I’m interested in Haskell.
 
